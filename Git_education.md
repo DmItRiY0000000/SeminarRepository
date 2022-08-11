@@ -18,3 +18,4 @@
 * Команда **git chekpoint** : *используется для перехода между commit* 
 
 Команда git branch - выводит все существующие в репозитории ветки, указывая на текущую
+git merge branch_name - сливает текущую ветку(current) с веткой branch_name (incoming)
